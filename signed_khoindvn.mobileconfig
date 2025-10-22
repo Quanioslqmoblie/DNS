@@ -47,7 +47,7 @@
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>com.tumadam.cloudflare</string>
+			<string>com.Quantool.cloudflare</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -109,13 +109,13 @@
 			<key>PayloadDisplayName</key>
                      <string>Anti Revoke/Anti Blacklist</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.com.tumadam.google</string>
+			<string>com.apple.dnsSettings.managed.com.Quantool.google</string>
 			<key>PayloadOrganization</key>
 			<string>NÃªn DÃ¹ngâœ…(Should Used)</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>com.tumadam.google</string>
+			<string>com.Quantool.google</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>

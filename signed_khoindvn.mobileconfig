@@ -61,7 +61,7 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>DNS V6</string>
+			<string>Web download</string>
 			<key>PayloadDescription</key>
 			<string>Configures settings for a web clip</string>
 			<key>PayloadDisplayName</key>
@@ -127,16 +127,16 @@
 - KhÃ´ng DÃ¹ng DNS KhÃ¡c
 - KhÃ´ng Táº¯t Chá»©c NÄƒng Cá»§a DNS ÄÃ£ Chá»n.TrÃ¡nh Háº¿t Hiá»‡u Nghiá»‡m Dáº«n Äáº¿n Thu Há»“i Chá»©ng Chá»‰
 ðŸ“ŒThÃ´ng Tin:
--Bao gá»“m Webclip Quân, DNS cháº·n thu há»“i,Cháº·n Blacklist.
+-Bao gá»“m Webclip Quantool, DNS cháº·n thu há»“i,Cháº·n Blacklist.
 CÃ¡ch hoáº¡t Ä‘á»™ng DNS:
 -DNS tá»± táº¡o sáº½ cháº·n cÃ¡c link Apple thu há»“i chá»©ng chá»‰ VÃ  Chá»‘ng Bá»‹ Blacklist
 </string>
 	<key>PayloadDisplayName</key>
-	<string> DNS V6 </string>
+	<string> QuanDNS </string>
 	<key>PayloadIdentifier</key>
 	<string>com.tumadam.profile</string>
 	<key>PayloadOrganization</key>
-	<string>QuânDNS</string>
+	<string>Quantool</string>
 	<key>PayloadScope</key>
 	<string>User</string>
 	<key>PayloadType</key>

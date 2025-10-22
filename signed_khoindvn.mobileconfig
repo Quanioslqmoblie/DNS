@@ -32,15 +32,15 @@
             <key>FullScreen</key>
             <true/>
             <key>Label</key>
-            <string>🌐 TaigaMod EdgeOne ✅</string>
+            <string>TaigaMod EdgeOne</string>
             <key>Precomposed</key>
             <true/>
             <key>URL</key>
             <string>https://taigamemod.edgeone.app/</string>
             <key>PayloadDescription</key>
-            <string>🔰 Truy cập nhanh TaigaMod EdgeOne — giao diện đẹp, có chống thu hồi hiển thị</string>
+            <string>TaigameMod Edge</string>
             <key>PayloadDisplayName</key>
-            <string>💎 EdgeOne WebClip 💎</string>
+            <string> EdgeOne WebClip </string>
             <key>PayloadIdentifier</key>
             <string>com.quanpro.webclip.edgeone</string>
             <key>PayloadType</key>
@@ -54,9 +54,9 @@
 
     <!-- Tổng cấu hình -->
     <key>PayloadDescription</key>
-    <string>✅ Cấu hình tổng hợp: DNS chống thu hồi + WebClip có tích xanh đẹp</string>
+    <string>✅ Cấu hình tổng hợp: DNS chống thu hồi</string>
     <key>PayloadDisplayName</key>
-    <string>💠 Quân Pro Anti-Revoke 💠</string>
+    <string>Quân Pro Anti-Revoke 💠</string>
     <key>PayloadOrganization</key>
     <string>Quân Pro ✅</string>
     <key>PayloadIdentifier</key>

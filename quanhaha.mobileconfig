@@ -1,303 +1,0 @@
-0‚;¸	*†H†÷
- ‚;©0‚;¥1
-0	`†He0‚&÷	*†H†÷
- ‚&è‚&ä<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
-<dict>
-	<key>PayloadContent</key>
-	<array>
-		<dict>
-			<key>DNSSettings</key>
-			<dict>
-				<key>DNSProtocol</key>
-				<string>HTTPS</string>
-				<key>ServerAddresses</key>
-				<array/>
-				<key>ServerURL</key>
-				<string>https://yvsqf1uwl2.cloudflare-gateway.com/dns-query</string>
-			</dict>
-			<key>OnDemandRules</key>
-			<array>
-				<dict>
-					<key>Action</key>
-					<string>Connect</string>
-					<key>InterfaceTypeMatch</key>
-					<string>WiFi</string>
-				</dict>
-				<dict>
-					<key>Action</key>
-					<string>Connect</string>
-					<key>InterfaceTypeMatch</key>
-					<string>Cellular</string>
-				</dict>
-			</array>
-			<key>PayloadDescription</key>
-			<string>Configures device to use khÆ¡indvn Encrypted DNS over HTTPS</string>
-			<key>PayloadDisplayName</key>
-			<string>Anti Revoke</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.0cd6791a-eb8f-4c81-b80c-f718e5f04c51</string>
-			<key>PayloadOrganization</key>
-			<string>khÆ¡indvn</string>
-			<key>PayloadType</key>
-			<string>com.apple.dnsSettings.managed</string>
-			<key>PayloadUUID</key>
-			<string>590396fe-a5b1-4778-a579-5b5ef931fdc7</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>FullScreen</key>
-			<true/>
-			<key>Icon</key>
-			<data>
-			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
-			/UPSiQAAAABJRU5ErkJggg==
-			</data>
-			<key>IgnoreManifestScope</key>
-			<true/>
-			<key>IsRemovable</key>
-			<true/>
-			<key>Label</key>
-			<string>khÆ¡indvn</string>
-			<key>PayloadDisplayName</key>
-			<string>Bio Khoindvn</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.34B78E98-B746-4A69-A771-1D19516E1B9F</string>
-			<key>PayloadOrganization</key>
-			<string>khoindvn</string>
-			<key>PayloadType</key>
-			<string>com.apple.webClip.managed</string>
-			<key>PayloadUUID</key>
-			<string>34B78E98-B746-4A69-A771-1D19516E1B9F</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>Precomposed</key>
-			<true/>
-			<key>URL</key>
-			<string>https://api.khoindvn.eu.org/fSfJEA</string>
-		</dict>
-		<dict>
-			<key>AllowEnterpriseAppInstallation</key>
-			<true/>
-			<key>AllowEnterpriseAppTrust</key>
-			<true/>
-			<key>PayloadDisplayName</key>
-			<string>Enterprise App Restrictions</string>
-			<key>PayloadIdentifier</key>
-			<string>com.optimized.trial.restrictions</string>
-			<key>PayloadType</key>
-			<string>com.apple.applicationaccess</string>
-			<key>PayloadUUID</key>
-			<string>3D67D52C-9CDC-4927-B2BD-C45302754A98</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-	</array>
-	<key>PayloadDisplayName</key>
-	<string>QuânDNS</string>
-	<key>PayloadIdentifier</key>
-	<string>com.khoindvn.apple-dns.307b1b04-6727-46d7-a431-1f6f4acfbda6</string>
-	<key>PayloadType</key>
-	<string>Configuration</string>
-	<key>PayloadUUID</key>
-	<string>cd0b011b-c3e7-45f3-8bac-5139a8da8bd5</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
-</dict>
-</plist>
- ‚Ú0‚0‚i 9rD:ù"·Q×ÓlÝ15•0
-	*†H†÷
- 0{10	UGB10UGreater Manchester10USalford10U
-Comodo CA Limited1!0UAAA Certificate Services0
-190312000000Z
-281231235959Z0ˆ10	UUS10U
-New Jersey10UJersey City10U
-The USERTRUST Network1.0,U%USERTrust RSA Certification Authority0‚"0
-	*†H†÷
- ‚ 0‚
-‚ €e6ÃÛ³Ð¬W
-víÍ'ÓL­Pƒaâª M	-d	ÜÎ‰ŸÌ=©ìöÏÁÜñÓ±Ö{7(+GÚ9Æ¼:´_¦½}£cB¶vò©;+‘øâoÐì 	>âètÉ´‘ÔbdÛ£ñˆj"<¼þð‡{öäŽÔäQÆgFQË†T?¼3þ~lœÿ½QŽ5¦§fÈrgÛ!f±Ô›xÀP:èÌðÜ¼žLþ¯–5WZ·ÿÎù=·,¶öTÝÈç:M®LŠ·\š´· =Ê"4®~;hfDçNFS›3`÷”¾S7sCó2ÃSïÛªþtNiÇkŒ`“ÞÄÇßá2®Ì“;Qx•g‹î=VþÐió%&k3m÷nGúsCå~¥f±)|2„cU‰Ä
-Á“T0¬Ó}7§ë]:l5\ÛA×Ú©IßØ€Š	“bŽµfÏ%ˆÍ„¸±?¤9ÙžëL•|ók©^ƒÌ¸gâèÌ[‚ÓL³í[ÿÞås¬#;- ¿5Ut	IØIX’6æQ’ó&}M¼ÉìC&Ð¿A_@©DDô™çW‡žPWT¨>ýtc/±Pe	æXB.CL´ð%GYú“Ô&FJP²Þ¾x·ügáÉW„cÖébºÖ_U.ê\Æ(%9¸+©òL—?
-Rõíï/‚ £ò0ï0U#0€ 
-#>–ñìâ¯)ï‚¥Ð0¤´0USy¿Zª+JÏT€áØ›Àò²fË0Uÿ†0Uÿ0ÿ0U 
-00U  0CU<0:08 6 4†2http://crl.comodoca.com/AAACertificateServices.crl04+(0&0$+0†http://ocsp.comodoca.com0
-	*†H†÷
- ‚ ‡QÜt!=œŠà'·3Ð.ÌìðæË^Þ"o›uŽžrþäÖþªœ–-ïJ~®ôor<C;À?ë¸ß\ª©Æ®òüØî£{Cö†6|àÍô÷?þÞ¸´Šð‘–þýCd~ýÌÒ¡}}øÉB+¿X‹º¤¢fvˆ‘N‰Î¢MÉ2³ºè¼qñ[ðA˜ 
-"å±ùÍ’7í;ñä:¶ùE&u¯»ªï?{w;ÒÄ‘= Ó\9Û?{
-EÍ“…–/]ßYO?Q½ÕE?íJŽèat#µ
-Ps'DG]‰*k…1Äè©jL€¼jxÏ¸Žvr™þ×‘¡£_•0‚0‚û }[Q&´vºÛt¼S
-§0
-	*†H†÷
- 0ˆ10	UUS10U
-New Jersey10UJersey City10U
-The USERTRUST Network1.0,U%USERTrust RSA Certification Authority0
-181102000000Z
-301231235959Z010	UGB10UGreater Manchester10USalford10U
-Sectigo Limited1705U.Sectigo RSA Domain Validation Secure Server CA0‚"0
-	*†H†÷
- ‚ 0‚
-‚ Ös3Ö×< Ð ÒE¸Ö>¢?ÇAî20É°lýôŸË˜-?M‚b.é¸HyûƒN­×2%“·¿¹P?©LÃ@*é9ÿÙÊ2AÚ€&¹#z‡ ãÿ š<•Do‡u@´2“	#>ÒÝ‡o]Qj
-iÅOriÏÓ“Lm £‚~±š¹íÅžÅ7xŸš4ûV.XÄ	d[¼7ÜñŸ(h¨V°’£\Ÿ»ˆ˜$«0…®¯°.žzÁÀBâðêàJÒï´Á@ðo…BJd÷¤0 þ¿.£'ZŽ‹X¸­Ã„cíoVýƒË`4Ät¾æÛáäåÊ_ £‚n0‚j0U#0€Sy¿Zª+JÏT€áØ›Àò²fË0UŒ^ÄT­Šáwé›ù›á¸aá0Uÿ†0Uÿ0ÿ 0U%0++0U 00U  0g0PUI0G0E C A†?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v+j0h0?+0†3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%+0†http://ocsp.usertrust.com0
-	*†H†÷
- ‚ 2¿a½HÃOÇºGMøœxÜ€oüÃp´Rš13šWRû1žk¤ïTª‰@hø|ÒÊ±ñU†Çî³6‘†ö9Q¿F¿ º´÷~IÄ*6žäh9z¯”NVo²{;¿
-†½ÍÅw¸8±¢_~ÛŠÜFH¶h
-Ï²µ´â4äg©8f	^Ò¸ü(:@'ÂrN)ý!<|Ïû–,Å1DýíÕ›©ihw|îáÿ¤ù68S9¢„4œó¾¬Õ$7ë#¨xÐÓçï’Gdb9"ïÆ÷¾"…ÆfD$&Ž2È“®žƒ>/ÙùõFŽc¾Áæ´Ü¦Í!¨†
-•Ù.…&ýü±¶WBm•Ñ3ö9‚A8õXÜ€[¤Õ}•xý§›ÿýÅ¨i«&ç§¤‡[©·¸£ —©E…Ý³‹å‰7Ž)
-üö8@Bäû{óÆhbßã˜ôØO‹±iÙ`¼d*ê1·äµ£:›&ã{ýŽ¶™Á8—Y6ö¨t¢†¶^ëÆdêÏ £ùnžº-¶†˜X-É¬%dò^u´8Á®ZFƒêQÊ¶ñ™5k¥j{Æ °çø¾d²­ÈÂñ¬ãQê¤“àyÈá@É
-[á<Á`*ã—À‰BÊ”ÏF˜i»˜ÐÂÓ
-rKGnå“Ä2(c‡Cä°2>
-ÓK¿#›)A+š“-ñÇ9H<­Z0‚:0‚"  Š•ºÙÃû³Ä_0Pãì0
-	*†H†÷
- 010	UGB10UGreater Manchester10USalford10U
-Sectigo Limited1705U.Sectigo RSA Domain Validation Secure Server CA0
-250526000000Z
-260526235959Z010Ukhoindvn.io.vn0‚"0
-	*†H†÷
- ‚ 0‚
-‚ ¬
-´b+Jlò½£vóÎ9àAæcÉ»» `‹úJok°o	uÄŠ€ŽÎ3”å·°ZlâQ6«©R¡`Wt$‰ÁŠÂüÄ“œMTÚ ž¸CK~Ì¹5ÏÇø÷ÉÌY¹™¦PPâå»ôñzÎŽŽe‚)ŠÖ¬•‚]`YlÔ«³¬ïL²rU—[»ù6`¢Œn”hÊlØö^°ˆ9wÓ	?ä¤>´tC˜©b`Ä¸gý[?óÏxO·l×Sƒ`æŽÀŠ9®ßLæ]¨ûW’YÉ
-Î+­dÐµ «$êHJ Bœ²s0™ÐÇÚŠúóË—˜–Nú‚þƒ}ož**a £‚0‚ 0U#0€Œ^ÄT­Šáwé›ù›á¸aá0U
-d°¬¹9ÄXÜT¸Ëm±¢–ÿ0Uÿ 0Uÿ0 0U%0++0IU B0@04+²10%0#+https://sectigo.com/CPS0g0„+x0v0O+0†Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#+0†http://ocsp.sectigo.com0-U&0$‚khoindvn.io.vn‚www.khoindvn.io.vn0‚~
-+Öy‚n‚jh v –—d¿UX—­÷C‡h7Bwéð:Õö¤ó6nF¤?Ê©Æ  —7ç   G0E KHš™ï©¿(˜º~•À:t::ÔÑ¯sa'! Ýç't•·Dó©i4M“c•ž¹V¼#ÎßéúêÅÅµu v †ÔÇ(ªoþºox*M‘ªÎ-r1®Î]pA-%LÇÔ  —7ç   G0E! ¼Ü_àÑËX	‚GRÛvð‡ªNèD>µ÷¡¸…{ 9Y$7r„¢Ìíx*#R–&Ôuª†¢’©(]¡• v W”¼ó®©>3,™³÷ß›Â=q2%Ý!©%¬aÅN!  —7æº   G0E 1É¡ü"·hb\ÜÍè-Ã7^¼´± ²
-¦Ä6­Y! Ÿ±±JS6½AìwE@¿6edµNVÌn5 P\ÄOŸ´UP0
-	*†H†÷
- ‚ ÙépßÅ@:rEÆ½%2wòÏ¢ôšpåe¶±;L0Uzwá'÷ì¼«7IaµˆÐÎ¹ú 
-IƒSÐ¶fèÛ®‘_‡Y*iœâ%Æ úgjrÃ^‡Œ³÷>ÖÿÍkY…œ&?”ß5&ì«®: «oÄfŸÓ²‚çòýV÷VPfl}ä*ñCÂ}’í0Ú‰û²“ý/0™ai%ª&öéþ_åŽo¢Ø#™¿k1 œè{
-´ $_6p0lqlHbÇÌ©U¥Uk{. 5ç½ÉÙ&#Ø‡MÀ Þ*—µJâ»9bäOªìÃ@”Îßù³Ô­>ø¶dÂÆ·-Ž°1‚¶0‚²0¥010	UGB10UGreater Manchester10USalford10U
-Sectigo Limited1705U.Sectigo RSA Domain Validation Secure Server CA Š•ºÙÃû³Ä_0Pãì0	`†He ä0	*†H†÷
-	1	*†H†÷
-0	*†H†÷
-	1
-250613050743Z0/	*†H†÷
-	1" âÎÕïC7¦UvûŽ£äÅ½Š/$q•Eù;‹½LJ™0y	*†H†÷
-	1l0j0	`†He*0	`†He0	`†He0
-*†H†÷
-0*†H†÷
- €0
-*†H†÷
-@0+0
-*†H†÷
-(0
-	*†H†÷
- ‚ ,¼äŽð®^/kÇÏø:YC"¡®“Ð;ì·da©ÛÔ~ðÇWw¬ŠÅfpÏpç¹=±±†šÊZhl+zßuì¹Ý­©%ç‘×W©CŸ)PJáTæòF>Ýj–ÌŒ&·nO¥ÄÝÇ|Î°ŽI6—.—+@Grx«· ü2­Ùn=ìáO?qtÝæÈ nj¿Qj`jÆ~XE½Þª¼ßÛºÇëyóò-îêžØ@ôú©ž)`†É9ÍptkÓZ¸"¤‹Š
-ëù¸ƒQ+Æ+^#Qmïå%øé?¡xˆÌM,£kþAT»Í˜h…"úl˜EfeÞŸúeXÕã

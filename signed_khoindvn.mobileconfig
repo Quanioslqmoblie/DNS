@@ -13,7 +13,7 @@
                 <string>https://apple.dns.nextdns.io/aff4ad</string>
             </dict>
             <key>PayloadDescription</key>
-            <string>🔥 Anti revoke + blacklist DNS ⚡</string>
+            <string> Anti revoke + blacklist DNS </string>
             <key>PayloadDisplayName</key>
             <string>Anti revoke + blacklist</string>
             <key>PayloadIdentifier</key>
@@ -28,7 +28,7 @@
     </array>
 
     <key>PayloadDescription</key>
-    <string>✨ Hồ sơ DNS chống thu hồi & blacklist — by Quân Pro 😎</string>
+    <string>Anti thu hồi chứng chỉ</string>
     <key>PayloadDisplayName</key>
     <string>Anti revoke + blacklist</string>
     <key>PayloadOrganization</key>

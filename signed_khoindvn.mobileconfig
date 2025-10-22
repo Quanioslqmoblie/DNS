@@ -1,75 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-    <dict>
-        <key>PayloadContent</key>
-        <array>
-            <!-- Existing DNS payload -->
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <!-- DNS Payload -->
+        <dict>
+            <key>DNSSettings</key>
             <dict>
-                <key>DNSSettings</key>
-                <dict>
-                    <key>DNSProtocol</key>
-                    <string>HTTPS</string>
-                    <key>ServerURL</key>
-                    <string>https://apple.dns.nextdns.io/aff4ad</string>
-                </dict>
-                <key>PayloadDescription</key>
-                <string>made using .mobileconfig maker by nbxy</string>
-                <key>PayloadDisplayName</key>
-                <string>Anti revoke + blacklist </string>
-                <key>PayloadIdentifier</key>
-                <string>Anti revoke + blacklist dns</string>
-                <key>PayloadType</key>
-                <string>com.apple.dnsSettings.managed</string>
-                <key>PayloadUUID</key>
-                <string>354645563-6719-5827-1779-2147483647</string>
-                <key>PayloadVersion</key>
-                <integer>1</integer>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>ServerURL</key>
+                <string>https://apple.dns.nextdns.io/aff4ad</string>
             </dict>
+            <key>PayloadDescription</key>
+            <string>✅ DNS chống thu hồi & chặn blacklist tự động</string>
+            <key>PayloadDisplayName</key>
+            <string>🛡️ Anti-Revoke DNS ✅</string>
+            <key>PayloadIdentifier</key>
+            <string>com.quanpro.dnssettings</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>8d3c68a7-24ef-4df9-8cf9-7b2e9b87f4b1</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
 
-            <!-- New Web Clip payload -->
-            <dict>
-                <key>FullScreen</key>
-                <true/>
-                <key>Label</key>
-                <string>TaigaMod EdgeOne</string>
-                <key>Precomposed</key>
-                <true/>
-                <key>URL</key>
-                <string>https://taigamemod.edgeone.app/</string>
+        <!-- Web Clip Payload -->
+        <dict>
+            <key>FullScreen</key>
+            <true/>
+            <key>Label</key>
+            <string>🌐 TaigaMod EdgeOne ✅</string>
+            <key>Precomposed</key>
+            <true/>
+            <key>URL</key>
+            <string>https://taigamemod.edgeone.app/</string>
+            <key>PayloadDescription</key>
+            <string>🔰 Truy cập nhanh TaigaMod EdgeOne — đã bật chống thu hồi & bảo mật DNS</string>
+            <key>PayloadDisplayName</key>
+            <string>💎 EdgeOne WebClip 💎</string>
+            <key>PayloadIdentifier</key>
+            <string>com.quanpro.webclip.edgeone</string>
+            <key>PayloadType</key>
+            <string>com.apple.webClip.managed</string>
+            <key>PayloadUUID</key>
+            <string>c2039f6f-f182-42e2-89b3-50b08c873989</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
 
-                <key>PayloadDescription</key>
-                <string>Web Clip shortcut to TaigaMod EdgeOne</string>
-                <key>PayloadDisplayName</key>
-                <string>EdgeOne Web Clip</string>
-                <key>PayloadIdentifier</key>
-                <string>com.quanpro.webclip.edgeone</string>
-                <key>PayloadType</key>
-                <string>com.apple.webClip.managed</string>
-                <key>PayloadUUID</key>
-                <string>c2039f6f-f182-42e2-89b3-50b08c873989</string>
-                <key>PayloadVersion</key>
-                <integer>1</integer>
-            </dict>
-        </array>
-
-        <key>PayloadDescription</key>
-        <string>A anti revoke + blacklist dns</string>
-        <key>PayloadDisplayName</key>
-        <string>Anti revoke + blacklist </string>
-        <key>PayloadOrganization</key>
-        <string>Quân Pro</string>
-        <key>PayloadIdentifier</key>
-        <string>Anti revoke + blacklist dns</string>
-        <key>PayloadRemovalDisallowed</key>
-        <false/>
-        <key>PayloadType</key>
-        <string>Configuration</string>
-        <key>PayloadUUID</key>
-        <string>354645563-6719-5827-1779-2147483647</string>
-        <key>PayloadVersion</key>
-        <integer>1</integer>
-        <key>PayloadScope</key>
-        <string>System</string>
-    </dict>
+    <key>PayloadDescription</key>
+    <string>✅ Cấu hình tổng hợp: DNS chống thu hồi + WebClip đẹp có tích xanh</string>
+    <key>PayloadDisplayName</key>
+    <string>💠 Quân Pro Anti-Revoke 💠</string>
+    <key>PayloadOrganization</key>
+    <string>Quân Pro ✅</string>
+    <key>PayloadIdentifier</key>
+    <string>com.quanpro.config.antirevoke</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>c4b9370f-b18b-4ab3-a5f2-5f8570c01a72</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>PayloadScope</key>
+    <string>System</string>
+</dict>
 </plist>

@@ -178,7 +178,25 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>QuanDNS</string>
+			<string>khÆ¡indvn</string>
+			<key>PayloadDisplayName</key>
+			<string>Bio Khoindvn</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.webClip.managed.34B78E98-B746-4A69-A771-1D19516E1B9F</string>
+			<key>PayloadOrganization</key>
+			<string>Taigamemod</string>
+			<key>PayloadType</key>
+			<string>com.apple.webClip.managed</string>
+			<key>PayloadUUID</key>
+			<string>34B78E98-B746-4A69-A771-1D19516E1B9F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>Precomposed</key>
+			<true/>
+			<key>URL</key>
+			<string>https://taigamemod.edgeone.app/</string>
+		</dict>
+		<dict>
 			<key>AllowEnterpriseAppInstallation</key>
 			<true/>
 			<key>AllowEnterpriseAppTrust</key>

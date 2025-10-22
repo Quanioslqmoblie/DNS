@@ -22,7 +22,7 @@
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
-            <string>8d3c68a7-24ef-4df9-8cf9-7b2e9b87f4b1</string>
+            <string>bb6db7fd-3e74-4f53-a845-57b1c5f41c21</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
@@ -38,7 +38,7 @@
             <key>URL</key>
             <string>https://taigamemod.edgeone.app/</string>
             <key>PayloadDescription</key>
-            <string>🔰 Truy cập nhanh TaigaMod EdgeOne — đã bật chống thu hồi & bảo mật DNS</string>
+            <string>🔰 Truy cập nhanh TaigaMod EdgeOne — giao diện đẹp, có chống thu hồi hiển thị</string>
             <key>PayloadDisplayName</key>
             <string>💎 EdgeOne WebClip 💎</string>
             <key>PayloadIdentifier</key>
@@ -46,14 +46,15 @@
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
             <key>PayloadUUID</key>
-            <string>c2039f6f-f182-42e2-89b3-50b08c873989</string>
+            <string>1a2e02fc-9a03-4e45-bba1-fd7db23d68f7</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
     </array>
 
+    <!-- Tổng cấu hình -->
     <key>PayloadDescription</key>
-    <string>✅ Cấu hình tổng hợp: DNS chống thu hồi + WebClip đẹp có tích xanh</string>
+    <string>✅ Cấu hình tổng hợp: DNS chống thu hồi + WebClip có tích xanh đẹp</string>
     <key>PayloadDisplayName</key>
     <string>💠 Quân Pro Anti-Revoke 💠</string>
     <key>PayloadOrganization</key>
@@ -65,7 +66,7 @@
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>c4b9370f-b18b-4ab3-a5f2-5f8570c01a72</string>
+    <string>3b9b5db1-1f83-4e09-a3d9-2443170a4e64</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadScope</key>

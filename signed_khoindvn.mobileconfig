@@ -5,18 +5,6 @@
     <key>PayloadContent</key>
     <array>
         <dict>
-            <key>PayloadType</key>
-            <string>com.apple.dnsSettings.managed</string>
-            <key>PayloadVersion</key>
-            <integer>1</integer>
-            <key>PayloadIdentifier</key>
-            <string>com.quanpro.dnssettings.antirevoke</string>
-            <key>PayloadUUID</key>
-            <string>f2a6d9e1-6c3a-4a9f-9b2e-0c4d1b8e7a12</string>
-            <key>PayloadDisplayName</key>
-            <string>AntiRevoke DNS</string>
-            <key>PayloadDescription</key>
-            <string>DNS chống thu hồi & chặn blacklist tự động</string>
             <key>DNSSettings</key>
             <dict>
                 <key>DNSProtocol</key>
@@ -24,50 +12,37 @@
                 <key>ServerURL</key>
                 <string>https://apple.dns.nextdns.io/aff4ad</string>
             </dict>
-        </dict>
-
-        <!-- Web Clip Payload -->
-        <dict>
+            <key>PayloadDescription</key>
+            <string>🔥 Anti revoke + blacklist DNS ⚡</string>
+            <key>PayloadDisplayName</key>
+            <string>🛡️ Anti Revoke + Blacklist ✅</string>
+            <key>PayloadIdentifier</key>
+            <string>com.quanpro.antirevoke.dns</string>
             <key>PayloadType</key>
-            <string>com.apple.webClip.managed</string>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>c5e9a632-b8b7-4b1f-95e3-9d7d7ac8e120</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
-            <key>PayloadIdentifier</key>
-            <string>com.quanpro.webclip.edgeone</string>
-            <key>PayloadUUID</key>
-            <string>9c8e7b44-3d21-4f6b-8a11-2d5f6b9a0c33</string>
-            <key>PayloadDisplayName</key>
-            <string>EdgeOne WebClip</string>
-            <key>PayloadDescription</key>
-            <string>Lối tắt TaigaMod EdgeOne — mở trang nhanh, full screen</string>
-
-            <key>Label</key>
-            <string> TaigaMod EdgeOne </string>
-            <key>URL</key>
-            <string>https://taigamemod.edgeone.app/</string>
-            <key>FullScreen</key>
-            <true/>
-            <key>Precomposed</key>
-            <true/>
         </dict>
     </array>
 
-    <key>PayloadType</key>
-    <string>Configuration</string>
-    <key>PayloadVersion</key>
-    <integer>1</integer>
-    <key>PayloadIdentifier</key>
-    <string>com.quanpro.profile.antirevoke.edgeone</string>
-    <key>PayloadUUID</key>
-    <string>6f4b2a11-8e0d-4c2a-9f88-1a2b3c4d5e66</string>
-    <key>PayloadDisplayName</key>
-    <string>Quân Pro Anti-Revoke</string>
     <key>PayloadDescription</key>
-    <string>DNS chống thu hồi</string>
+    <string>✨ Hồ sơ DNS chống thu hồi & blacklist — by Quân Pro 😎</string>
+    <key>PayloadDisplayName</key>
+    <string>🧩 Anti Revoke + Blacklist 🌐</string>
     <key>PayloadOrganization</key>
     <string>Quân Pro</string>
+    <key>PayloadIdentifier</key>
+    <string>com.quanpro.profile.antirevoke</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>fa28e4e7-0a1d-4f02-bb64-2b9a1c5f6c22</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
     <key>PayloadScope</key>
     <string>System</string>
 </dict>

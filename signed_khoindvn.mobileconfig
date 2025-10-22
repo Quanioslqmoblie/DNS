@@ -4,8 +4,19 @@
 <dict>
     <key>PayloadContent</key>
     <array>
-        <!-- DNS Payload -->
         <dict>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>PayloadIdentifier</key>
+            <string>com.quanpro.dnssettings.antirevoke</string>
+            <key>PayloadUUID</key>
+            <string>f2a6d9e1-6c3a-4a9f-9b2e-0c4d1b8e7a12</string>
+            <key>PayloadDisplayName</key>
+            <string>AntiRevoke DNS</string>
+            <key>PayloadDescription</key>
+            <string>DNS chống thu hồi & chặn blacklist tự động</string>
             <key>DNSSettings</key>
             <dict>
                 <key>DNSProtocol</key>
@@ -13,62 +24,50 @@
                 <key>ServerURL</key>
                 <string>https://apple.dns.nextdns.io/aff4ad</string>
             </dict>
-            <key>PayloadDescription</key>
-            <string>✅ DNS chống thu hồi & chặn blacklist tự động</string>
-            <key>PayloadDisplayName</key>
-            <string>🛡️ Anti-Revoke DNS ✅</string>
-            <key>PayloadIdentifier</key>
-            <string>com.quanpro.dnssettings</string>
-            <key>PayloadType</key>
-            <string>com.apple.dnsSettings.managed</string>
-            <key>PayloadUUID</key>
-            <string>bb6db7fd-3e74-4f53-a845-57b1c5f41c21</string>
-            <key>PayloadVersion</key>
-            <integer>1</integer>
         </dict>
 
         <!-- Web Clip Payload -->
         <dict>
-            <key>FullScreen</key>
-            <true/>
-            <key>Label</key>
-            <string>TaigaMod EdgeOne</string>
-            <key>Precomposed</key>
-            <true/>
-            <key>URL</key>
-            <string>https://taigamemod.edgeone.app/</string>
-            <key>PayloadDescription</key>
-            <string>TaigameMod Edge</string>
-            <key>PayloadDisplayName</key>
-            <string> EdgeOne WebClip </string>
-            <key>PayloadIdentifier</key>
-            <string>com.quanpro.webclip.edgeone</string>
             <key>PayloadType</key>
             <string>com.apple.webClip.managed</string>
-            <key>PayloadUUID</key>
-            <string>1a2e02fc-9a03-4e45-bba1-fd7db23d68f7</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
+            <key>PayloadIdentifier</key>
+            <string>com.quanpro.webclip.edgeone</string>
+            <key>PayloadUUID</key>
+            <string>9c8e7b44-3d21-4f6b-8a11-2d5f6b9a0c33</string>
+            <key>PayloadDisplayName</key>
+            <string>EdgeOne WebClip</string>
+            <key>PayloadDescription</key>
+            <string>Lối tắt TaigaMod EdgeOne — mở trang nhanh, full screen</string>
+
+            <key>Label</key>
+            <string> TaigaMod EdgeOne </string>
+            <key>URL</key>
+            <string>https://taigamemod.edgeone.app/</string>
+            <key>FullScreen</key>
+            <true/>
+            <key>Precomposed</key>
+            <true/>
         </dict>
     </array>
 
-    <!-- Tổng cấu hình -->
-    <key>PayloadDescription</key>
-    <string>✅ Cấu hình tổng hợp: DNS chống thu hồi</string>
-    <key>PayloadDisplayName</key>
-    <string>Quân Pro Anti-Revoke 💠</string>
-    <key>PayloadOrganization</key>
-    <string>Quân Pro ✅</string>
-    <key>PayloadIdentifier</key>
-    <string>com.quanpro.config.antirevoke</string>
-    <key>PayloadRemovalDisallowed</key>
-    <false/>
     <key>PayloadType</key>
     <string>Configuration</string>
-    <key>PayloadUUID</key>
-    <string>3b9b5db1-1f83-4e09-a3d9-2443170a4e64</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
+    <key>PayloadIdentifier</key>
+    <string>com.quanpro.profile.antirevoke.edgeone</string>
+    <key>PayloadUUID</key>
+    <string>6f4b2a11-8e0d-4c2a-9f88-1a2b3c4d5e66</string>
+    <key>PayloadDisplayName</key>
+    <string>Quân Pro Anti-Revoke</string>
+    <key>PayloadDescription</key>
+    <string>DNS chống thu hồi</string>
+    <key>PayloadOrganization</key>
+    <string>Quân Pro</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
     <key>PayloadScope</key>
     <string>System</string>
 </dict>

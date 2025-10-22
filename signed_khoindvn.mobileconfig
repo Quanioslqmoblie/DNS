@@ -17,11 +17,11 @@
             <key>PayloadDisplayName</key>
             <string>Anti revoke + blacklist</string>
             <key>PayloadIdentifier</key>
-            <string>Anti revoke + blacklist dns</string>
+            <string>com.quanpro.antirevoke.dns</string>
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
-            <string>354645563-6719-5827-1779-2147483647</string>
+            <string>9a4b66c3-28b5-43fb-b36f-12d71d7a9a44</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
@@ -34,13 +34,13 @@
     <key>PayloadOrganization</key>
     <string>Quân Pro</string>
     <key>PayloadIdentifier</key>
-    <string>Anti revoke + blacklist dns</string>
+    <string>com.quanpro.profile.antirevoke</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>354645563-6719-5827-1779-2147483647</string>
+    <string>ba99b4e8-5c7d-4e4e-a12b-8e2f68b9d1a77</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadScope</key>

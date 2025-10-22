@@ -15,13 +15,13 @@
             <key>PayloadDescription</key>
             <string>🔥 Anti revoke + blacklist DNS ⚡</string>
             <key>PayloadDisplayName</key>
-            <string>🛡️ Anti Revoke + Blacklist ✅</string>
+            <string>Anti revoke + blacklist</string>
             <key>PayloadIdentifier</key>
-            <string>com.quanpro.antirevoke.dns</string>
+            <string>Anti revoke + blacklist dns</string>
             <key>PayloadType</key>
             <string>com.apple.dnsSettings.managed</string>
             <key>PayloadUUID</key>
-            <string>c5e9a632-b8b7-4b1f-95e3-9d7d7ac8e120</string>
+            <string>354645563-6719-5827-1779-2147483647</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
         </dict>
@@ -30,17 +30,17 @@
     <key>PayloadDescription</key>
     <string>✨ Hồ sơ DNS chống thu hồi & blacklist — by Quân Pro 😎</string>
     <key>PayloadDisplayName</key>
-    <string>🧩 Anti Revoke + Blacklist 🌐</string>
+    <string>Anti revoke + blacklist</string>
     <key>PayloadOrganization</key>
     <string>Quân Pro</string>
     <key>PayloadIdentifier</key>
-    <string>com.quanpro.profile.antirevoke</string>
+    <string>Anti revoke + blacklist dns</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>fa28e4e7-0a1d-4f02-bb64-2b9a1c5f6c22</string>
+    <string>354645563-6719-5827-1779-2147483647</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
     <key>PayloadScope</key>

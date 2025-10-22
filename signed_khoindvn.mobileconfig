@@ -4,6 +4,7 @@
     <dict>
         <key>PayloadContent</key>
         <array>
+            <!-- Existing DNS payload -->
             <dict>
                 <key>DNSSettings</key>
                 <dict>
@@ -16,32 +17,59 @@
                 <string>made using .mobileconfig maker by nbxy</string>
                 <key>PayloadDisplayName</key>
                 <string>Anti revoke + blacklist </string>
-<key>PayloadIdentifier</key>
+                <key>PayloadIdentifier</key>
                 <string>Anti revoke + blacklist dns</string>
                 <key>PayloadType</key>
                 <string>com.apple.dnsSettings.managed</string>
                 <key>PayloadUUID</key>
-                <string>354645563-6719-5827-1779-2147483647</string>
+                <string>c7f392b7-f199-42f2-89aa-fadf50c80c7a</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+            </dict>
+
+            <!-- New Web Clip payload -->
+            <dict>
+                <key>FullScreen</key>
+                <true/>
+                <key>Label</key>
+                <string>TaigaMod EdgeOne</string>
+                <key>Precomposed</key>
+                <true/>
+                <key>URL</key>
+                <string>https://taigamemod.edgeone.app/</string>
+
+                <key>PayloadDescription</key>
+                <string>Tai mod</string>
+                <key>PayloadDisplayName</key>
+                <string>EdgeOne Web Clip</string>
+                <key>PayloadIdentifier</key>
+                <string>com.quanpro.webclip.edgeone</string>
+                <key>PayloadType</key>
+                <string>com.apple.webClip.managed</string>
+                <key>PayloadUUID</key>
+                <string>c7f392b7-f199-42f2-89aa-fadf50c80c7a</string>
                 <key>PayloadVersion</key>
                 <integer>1</integer>
             </dict>
         </array>
+
         <key>PayloadDescription</key>
         <string>A anti revoke + blacklist dns</string>
         <key>PayloadDisplayName</key>
         <string>Anti revoke + blacklist </string>
-<key>PayloadOrganization</key>
-        <string>John220099</string>
+        <key>PayloadOrganization</key>
+        <string>Quân Pro</string>
         <key>PayloadIdentifier</key>
-		<string>Anti revoke + blacklist dns</string>
+        <string>Anti revoke + blacklist dns</string>
         <key>PayloadRemovalDisallowed</key>
         <false/>
         <key>PayloadType</key>
         <string>Configuration</string>
-        <key>PayloadUUID</key>        <string>354645563-6719-5827-1779-2147483647</string>
+        <key>PayloadUUID</key>
+        <string>c7f392b7-f199-42f2-89aa-fadf50c80c7a</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadScope</key>
-        <string>System</string>   
+        <string>System</string>
     </dict>
 </plist>

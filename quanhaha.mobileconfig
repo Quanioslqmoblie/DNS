@@ -178,9 +178,9 @@
 			<key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>QuanDNS</string>
+			<string>khÆ¡indvn</string>
 			<key>PayloadDisplayName</key>
-			<string>Bio QuanDNS</string>
+			<string>Bio Khoindvn</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.webClip.managed.34B78E98-B746-4A69-A771-1D19516E1B9F</string>
 			<key>PayloadOrganization</key>
@@ -214,7 +214,7 @@
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>khÆ¡indvn</string>
+	<string>QuânDNS</string>
 	<key>PayloadIdentifier</key>
 	<string>com.khoindvn.apple-dns.307b1b04-6727-46d7-a431-1f6f4acfbda6</string>
 	<key>PayloadType</key>
